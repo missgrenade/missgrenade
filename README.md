@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giftyladayela
+- 👋 Hi, I’m @missgrenade
 - 👀 I’m interested in learning git, javascrip and python
 - 🌱 I’m currently learning git
 - 💞️ I’m looking to collaborate on microverse course challenges
